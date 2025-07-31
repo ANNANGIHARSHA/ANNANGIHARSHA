@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm  ANNANGI HARSHA , a passionate developer, data
 - 🎓 **Education**: Pursuing a BS in Data Sciences at IITM and a BTech graduate from Vignan LARA Institute of Technology.
 - 💻 **Tech Stack**: Python, Java, Data Structures & Algorithms, Full-Stack Development.
 - 🚀 **Experience**: Full Stack Web Developer Intern at Teachnook | HR Recruiter | Entrepreneur at Hamari Pehchan NGO and Suvidha Foundation.
-- 🎯 **Interests**: Machine Learning, Web Development, and creating impactful solutions.
+- - 🎯 **Interests**: Machine Learning, Web Development, and creating impactful solutions.
 - 🌱 **Currently Learning**: Advanced Machine Learning & Brain Tumor Prediction (ResNet50-based approach).
 
 ---
